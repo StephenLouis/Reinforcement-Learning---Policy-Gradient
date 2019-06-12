@@ -1,9 +1,8 @@
 # Reinforcement-Learning---Policy-Gradient
-the implementation of Policy Gradient
-
+the implementation of Policy Gradient  
+**如果觉得不错，麻烦点颗星哦！**
 # 【强化学习】Policy Gradient算法详解
 博客：https://blog.csdn.net/Gilgame/article/details/91404427
-**如果觉得不错，麻烦点颗星哦！**
 ## 1.算法思想
 之前的文章已经介绍了Q-Learning的相关知识及其实例：[【强化学习】Q-Learning 迷宫算法案例](https://blog.csdn.net/Gilgame/article/details/90669032)
 Q-Learning 是一个基于价值value的方法，通过计算动作得分来决策的，它在确定了价值函数的基础上采用某种策略（贪婪-epslion）的方法去选取动作。
